@@ -1,4 +1,4 @@
-<h1>This is my personal, <span style="{font-style: italic}">not working</span>account</h1>
+<h1>This is my personal, <em>not working</em> account</h1>
 
 <p align="left">
 </p>
