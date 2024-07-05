@@ -1,3 +1,5 @@
+<h1>Welcome to my personal coding space!</h1>
+<p>*It's not a working account! Here I play with new tools, languages and create my own projects in free time.</p>
 <p align="left">
 </p>
 <p align="left"> 
